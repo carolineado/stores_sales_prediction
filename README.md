@@ -4,7 +4,7 @@ O propósito deste projeto é educativo.
 # 1 - Problema de Negócio
 
 ## 1.1 - A Rossmann
-A Rossmann é uma cadeia de farmácias e drogarias com sede na Alemanha. Fundada em 1972, a empresa tem uma longa história no setor de varejo farmacêutico e hoje é uma das maiores redes do país, com milhares de lojas espalhadas pela Alemanha e também em alguns países vizinhos.
+A Rossmann é uma rede de farmácias e drogarias com sede na Alemanha. Fundada em 1972, a empresa tem uma longa história no setor de varejo farmacêutico e hoje é uma das maiores redes do país, com milhares de lojas espalhadas pela Alemanha e também em alguns países vizinhos.
 
 ## 1.2 - O problema
 O CFO da Rossmann necessita da previsão de vendas das próximas 6 semanas para planejar a reforma em algumas lojas da rede.
